@@ -17,12 +17,20 @@ https://www.youtube.com/watch?v=aY7v9pFhNBk
 <br/>
 
 <p float="left">
-  <img src="Screenshots/HighresScreenshot00001.png" width="52%" />
-  <img src="Screenshots/ScreenShot00000.png" width="46%" />
+  <img src="Screenshots/ScreenShot00000.png" width="49%" />
+  <img src="Screenshots/ScreenShot00001.png" width="49%" />
 </p>
 <p float="left">
-  <img src="Screenshots/ScreenShot00001.png" width="49%" />
   <img src="Screenshots/ScreenShot00002.png" width="49%" />
+  <img src="Screenshots/ScreenShot00003.png" width="49%" />
+</p>
+<p float="left">
+  <img src="Screenshots/ScreenShot00004.png" width="49%" />
+  <img src="Screenshots/ScreenShot00005.png" width="49%" />
+</p>
+<p float="left">
+  <img src="Screenshots/ScreenShot00006.png" width="49%" />
+  <img src="Screenshots/ScreenShot00007.png" width="49%" />
 </p>
 
 <details open> 
