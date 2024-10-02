@@ -6,16 +6,9 @@
 
 <br />
 
-The Alien World Demo was a project created to utilize and familiarize myself with the terrain tools available within Unreal Engine 4. 
-Some aspects of this project include: 
-  - Using multi-layered materials to paint the terrain
-  -  procedural 3D grass placement based on terrain layer
-  -  3D modelling of foliage and terrain obstacles
-  -  Creating a custom color profile for the world skybox to create an alien atmosphere
+This project is a showcase of an AI implementation within a game in Unreal Engine 4. Within this game, the player must traverse a 3D environment while avoiding being discovered by multiple AI controlled characters that are patrolling the area. If one of the AI controlled characters discovers the player, they will proceed to chase the player and attempt to capture them. If this is successful, the game is restarted. If the player reaches the end of the map and escapes, the game is won.
 
-There are some additional elements that were a part of this project, such as physics-based interactions and 3D audio, but the world building was the primary focus.
-
-https://www.youtube.com/watch?v=GVoKFiD4At8
+https://www.youtube.com/watch?v=aY7v9pFhNBk
 </details>
 
 <br/>
@@ -69,23 +62,23 @@ https://www.youtube.com/watch?v=GVoKFiD4At8
 
 - **How would you describe the process of creating and polishing the artifact?**
   
-I feel that creating and polishing this artifact was very enjoyable, as it really allowed me to use creativity and my imagination. For this project, I really wanted to focus on creating the atmosphere of a game level while also attempting to make all of the assets: such as sound, models, materials, and more, myself. I feel that I was really able to accomplish this, creating a very specific, alien-like atmosphere within the level, even though it is only a small demo area.
+Overall, this artifact was definitely one of the more challenging throughout my time working on university projects, as a lot of complex logic, ideas, and solutions were involved in the development of this experience. This was the first time developing an Unreal Engine 4 project using C++ rather then their blueprint system, so transferring all of the knowledge that I had gained into the C++ environment proved to be quite challenging at first. That being said, I feel that this project was still a fantastic experience, is I was able to learn an immense amount about the game engine, C++, pathfinding AI, navigation meshes, and more. I feel that the skills that were gained from working on this project will become extremely useful in projects that I work on in the future!
   
 - **What did you learn as you were creating it and improving it?**
 
-This project gave me a change to become more familiar with the terrain tools, materials, and sound effect tools within Unreal Engine 4. I was really excited to learn about the dynamic grass placement based on the material used within the terrain, as well as creating dynamic movement and gradients within a material using their material editor. Along with this, I was able to continue refining my skills within Blender, though I have already had quite a bit of experience using this tool in the past.
+As I have worked with navigation meshes within other game engines on other projects, I feel that the primary skill that I learned throughout this project was using C++ within a game engine environment. As mentioned before, this was my first time to use C++ within Unreal Engine, though I had used it a bit within standalone projects. Because of this, there was a lot that I had to learn, as I was surprised to see how much was actually different between working on standalone projects with C++ versus using it for Unreal Engine game logic.
 
 - **What challenges did you face?**
 
-Honestly, I feel that there were not really any challenges within this project, as it was heavily focused on just trying things out and having fun with it. Some things needed to be redesigned, as I did not like how they fit with the rest of the environment, but that was about as challenging as it got.
+As mentioned before, the largest challenges that I faced during this project was the implementation of AI pathfinding and the navigation mesh within the game environment along with the utilization of C++ to create the game logic rather than Unreal Engine's Blueprint system. As the development of the project progressed, I became more and more comfortable with these tools, being able to rely on not only my experience with the Blueprint system, but also my prior experience with C++ and other object-oriented programming languages.
 
 - **How did you incorporate feedback as you made changes to the artifact?**
 
-Similar to many of my other projects, feedback was incorporated by keeping a solid lane of communication open between me and the client, in this case a professor. As this was more of just a creative project, this required a minimal amount of feedback other than ensuring overall functionality of the artifact.
+Similar to many of my other projects, feedback was incorporated by keeping a solid lane of communication open between me and the client, in this case a professor. This project required me to both develop and refine a lot of skills in order to create the polished artifact, so this communication was extremely important in order to ensure the full realization of the final artifact as originally envisioned.
 
 - **How was the artifact improved?**
 
-The artifact originally contained a terrain with materials applied and the UFOs placed around the map as cones. This artifact was improved by introducing fully materialled custom models to almost every aspect of the terrain and the objects placed around the terrain. Along with this, grass was added to the terrain that is dynamically placed based on the material used at that position on the terrain.
+This artifact was primarily improved by adding an additional, larger and more complex, level to the prototype while also incorporating and building on features that were developed and presented within the first level of the game. I wanted this new level to hold the dame ambience as the previous level, while introducing a much more complex and challenging environment to the player where they could utilize the skills gained within the first level. 
 </details> 
 
 <br />
