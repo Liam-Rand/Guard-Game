@@ -1,4 +1,4 @@
-# Alien World Demo
+![](GuardGameTitle.png)
 ![Project Type](https://custom-icon-badges.demolab.com/badge/Project%20Type-University-F25278?style=for-the-badge&logo=file&logoColor=white) ![C#](https://custom-icon-badges.demolab.com/badge/Language-C%2B%2B-brightgreen?style=for-the-badge&logo=command-palette&logoColor=white) ![App Type](https://custom-icon-badges.demolab.com/badge/Application%20Type-Game-blue?style=for-the-badge&logo=terminal&logoColor=white) ![Game Engine](https://custom-icon-badges.demolab.com/badge/Game%20Engine-Unreal%20Engine%204-purple?style=for-the-badge&logo=controller&logoColor=white)
 
 <details open> 
