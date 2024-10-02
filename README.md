@@ -63,6 +63,18 @@ https://www.youtube.com/watch?v=aY7v9pFhNBk
   <img src="Screenshots/Screenshot 2023-12-12 165432.png" width="32%" />
   <img src="Screenshots/Screenshot 2023-12-12 165455.png" width="32%" />
 </p>
+<p float="left">
+  <img src="Screenshots/Screenshot 2023-12-12 165017.png" width="49%" />
+  <img src="Screenshots/Screenshot 2023-12-12 165036.png" width="49%" />
+</p>
+<p float="left">
+  <img src="Screenshots/Screenshot 2023-12-12 165121.png" width="49%" />
+  <img src="Screenshots/Screenshot 2023-12-12 165121.png" width="49%" />
+</p>
+<p float="left">
+  <img src="Screenshots/Screenshot 2023-12-12 165205.png" width="49%" />
+  <img src="Screenshots/Screenshot 2023-12-12 165238.png" width="49%" />
+</p>
 
 <details open> 
 <summary><h2>🧠 Project Reflection</h2></summary>
