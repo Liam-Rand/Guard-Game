@@ -11,6 +11,7 @@
 
 This project is a showcase of an AI implementation within a game in Unreal Engine 4. Within this game, the player must traverse a 3D environment while avoiding being discovered by multiple AI controlled characters that are patrolling the area. If one of the AI controlled characters discovers the player, they will proceed to chase the player and attempt to capture them. If this is successful, the game is restarted. If the player reaches the end of the map and escapes, the game is won.
 
+
 <h2>🎥 Project Videos</h2>
 https://www.youtube.com/watch?v=aY7v9pFhNBk
 
